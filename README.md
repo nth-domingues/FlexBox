@@ -1,2 +1,2 @@
 # FlexBox
-Repositório para upar a atividade de PI (FlexBox)
+Entrega da atividade proposta pela matéria de Pesquisa e Inovação
